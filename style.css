@@ -1,0 +1,26 @@
+.bob
+{
+    background-color: blueviolet;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+
+}
+b
+{
+    color:purple;
+}
+.bob3
+{
+    text-align: center;
+    color:white;
+}
+.footer
+{
+    background-color: rgb(230, 13, 201);
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
